@@ -72,6 +72,8 @@ body {
     display: none;
 }
 
+
+
 @media (max-width: 1080px) {
     .msg-container {
         height: 30vmin;
